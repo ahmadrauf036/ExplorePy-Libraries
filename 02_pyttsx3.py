@@ -8,8 +8,7 @@ voices=engine.getProperty('voices')
 engine.setProperty('voice',voices[1].id) # 0 for male
 
 
-engine.say("Shut up Fatima")
-
+engine.say("I am Ahmad.")
 
 engine.runAndWait()
 
